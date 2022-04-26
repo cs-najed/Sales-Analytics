@@ -2,7 +2,7 @@
 
 ## Objective 
 
-This dataset contain information of Sales, We will perform exploratory data analysis to get insight from the data.  We try to answer the following set of real-world business questions to draw insights from this huge Sales dataset:
+This dataset contain information of Sales, I perform exploratory data analysis and visulize it to get insight from the data. I try to answer the following set of real-world business questions to draw insights from this huge Sales dataset:
 
 Question 1: What was the best month for sales? How much was earned that month?
 
