@@ -1,8 +1,14 @@
 # Sales-Analytics
 
+This Project Presents information of Sales for shop, I perform exploratory data analysis and visulize it to get insight from the data. 
+
+## here is the link of PowerBI  Dashboard:
+
+https://app.powerbi.com/groups/me/reports/e6b4206d-15dd-45ae-9e45-32770a5156fe/ReportSectiondd49161431c457c3b763
+
 ## Objective 
 
-This dataset contain information of Sales, I perform exploratory data analysis and visulize it to get insight from the data. I try to answer the following set of real-world business questions to draw insights from this huge Sales dataset:
+I try to answer the following set of real-world business questions to draw insights from this huge Sales dataset:
 
 Question 1: What was the best month for sales? How much was earned that month?
 
