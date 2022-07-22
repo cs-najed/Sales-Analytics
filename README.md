@@ -4,7 +4,7 @@ This Project Presents information of Sales for shop, I perform exploratory data 
 
 ## here is the link of PowerBI  Dashboard:
 
-https://app.powerbi.com/groups/me/reports/e6b4206d-15dd-45ae-9e45-32770a5156fe/ReportSectiondd49161431c457c3b763
+https://app.powerbi.com/links/PkvGfKRsSf?ctid=19df06c3-3fcd-4947-809f-064684abf608&pbi_source=linkShare
 
 ## Objective 
 
